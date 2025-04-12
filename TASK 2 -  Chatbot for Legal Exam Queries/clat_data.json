@@ -1,0 +1,39 @@
+{
+    "syllabus": {
+      "CLAT 2025": "English, Current Affairs, Legal Reasoning, Logical Reasoning, Quantitative Techniques",
+      "English Section": "Comprehension, Grammar, Vocabulary, Sentence Correction",
+      "Current Affairs": "Recent events, Government policies, International relations, Legal updates",
+      "Legal Reasoning": "Legal principles, Case law interpretation, Contract law fundamentals",
+      "Logical Reasoning": "Critical thinking, Analytical puzzles, Syllogisms, Statement assumptions",
+      "Quantitative Techniques": "Data interpretation, Probability, Basic mathematics, Algebra"
+    },
+    "exam_format": {
+      "total_questions": "150 MCQs divided across five sections",
+      "english_section": "26-32 questions",
+      "logical_reasoning_section": "26-30 questions",
+      "current_affairs_section": "32-35 questions",
+      "legal_reasoning_section": "28-32 questions",
+      "quantitative_techniques_section": "13-17 questions",
+      "exam_duration": "2 hours",
+      "marking_scheme": "Each question carries 1 mark, with a negative marking of 0.25 for incorrect answers"
+    },
+    "cutoff": {
+      "NLSIU Bangalore 2024": "General: 97-102, OBC: 90-97, SC: 86-90",
+      "NALSAR Hyderabad 2024": "General: 94-99, OBC: 87-92, SC: 82-88",
+      "WBNUJS Kolkata 2024": "General: 91-96, OBC: 85-90, SC: 80-86",
+      "NLU Jodhpur 2024": "General: 89-94, OBC: 83-88, SC: 78-84"
+    },
+    "faqs": {
+      "What is CLAT?": "The Common Law Admission Test (CLAT) is a national-level entrance exam for admissions to undergraduate and postgraduate law programs at NLUs.",
+      "Who conducts CLAT?": "The exam is organized by the Consortium of National Law Universities (NLUs) in India.",
+      "What is the mode of CLAT exam?": "CLAT is conducted in an offline mode (pen-paper based).",
+      "Can I appear for CLAT after 12th grade?": "Yes, CLAT UG is for students who have completed or are appearing for their 12th-grade exams.",
+      "Is there any age limit for CLAT?": "No, there is no upper age limit for appearing in CLAT.",
+      "How many attempts can I take for CLAT?": "You can attempt CLAT any number of times.",
+      "What is the application fee for CLAT?": "General/OBC: ₹4,000; SC/ST/PwD: ₹3,500.",
+      "What documents are required for CLAT registration?": "Photo ID, Academic certificates, Category certificate (if applicable).",
+      "What is the marking scheme in CLAT?": "Each correct answer fetches 1 mark, while each incorrect response results in a deduction of 0.25 marks.",
+      "How can I prepare for CLAT?": "Read newspapers daily, practice mock tests, and revise legal principles."
+    }
+  }
+  
