@@ -1,7 +1,4 @@
 # AI-ML-Task-for-NLTI
-Certainly! Here’s a structured **README.md** file with steps for implementing both tasks.
-
----
 
 # AI/ML-Based Mentor & Chatbot System  
 
