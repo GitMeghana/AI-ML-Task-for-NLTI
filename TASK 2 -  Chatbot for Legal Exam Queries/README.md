@@ -1,7 +1,3 @@
-Certainly! Here's the README without emojis for a more formal presentation:
-
----
-
 # CLAT Chatbot – An NLP-Powered Legal Exam Assistant
 
 ## Overview
@@ -86,4 +82,4 @@ If you would like to contribute, please submit a Pull Request or open an Issue o
 This project is licensed under the MIT License, allowing open-source collaboration and modifications.
 
 ---
- Let me know if you'd like further refinements or additional details.
+
