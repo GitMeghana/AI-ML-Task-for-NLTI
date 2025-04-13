@@ -71,4 +71,3 @@ This project is open-source and can be modified for further improvements.
 
 ---
 
-This README provides a structured guide to implementing both tasks. Let me know if you need any modifications! 🚀
