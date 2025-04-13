@@ -1,7 +1,3 @@
-Here’s your **README.md** file in the requested format, providing a structured and detailed overview of the **Mentor Recommendation System**:
-
----
-
 # Mentor Recommendation System Using NLP & Cosine Similarity
 
 ## Overview
@@ -78,4 +74,4 @@ This project is licensed under the **MIT License**, allowing open-source usage a
 
 ---
 
-This README provides a well-structured overview of your mentor recommendation system. If you need any modifications or an actual `.md` file for direct download, let me know!
+
